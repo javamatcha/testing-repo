@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122723688691",
+    "project_id": "github-actions-2762c",
+    "storage_bucket": "github-actions-2762c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122723688691:android:090727b72cfbb4e38f9786",
+        "android_client_info": {
+          "package_name": "com.example.ghproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXG5Rg0FkjMZy-3jr_gopYSmvPsU9Cf8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
