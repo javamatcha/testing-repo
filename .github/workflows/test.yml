@@ -16,7 +16,7 @@ jobs:
           java-version: 1.8
 
       - name: Set up Gradle
-        run: ./gradlew assembleDebug
+        run: gradle/gradle-build-action@v2
 
       - name: Make gradlew executable
         run: chmod +X ./gradlew
